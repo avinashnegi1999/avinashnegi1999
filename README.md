@@ -54,7 +54,7 @@ Target: remote SDE role by mid-2027. The path is long. I walk it anyway.
 
 <br>
 
-<a href="https://avinashnegi1999.github.io/berserk-portfolio /">
+<a href="https://avinashnegi1999.github.io/berserk-portfolio/">
   <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logoColor=white" height="40"/>
 </a>
 
@@ -154,7 +154,7 @@ Target: remote SDE role by mid-2027. The path is long. I walk it anyway.
 | Chapter | What was won | Stack |
 |---|---|---|
 | **[100 Days of Python](https://github.com/AvinashNegi1999/100-Days-of-Python-Code-challenge)** | 100 days. No breaks. Snake game, Pomodoro, scrapers, automation — all shipped | `Python` `Turtle` `Tkinter` `BeautifulSoup` |
-| **[Portfolio](https://avinashnegi1999.github.io/)** | Personal war banner — projects, journey, contact | `HTML` `CSS` `GitHub Pages` |
+| **[Portfolio](https://avinashnegi1999.github.io/berserk-portfolio/)** | Personal war banner — projects, journey, contact | `HTML` `CSS` `GitHub Pages` |
 | **[LeetCode Solutions](https://github.com/avinashnegi1999/LeetCode-Solutions)** | Striver A2Z DSA — one problem at a time, no skipping | `Python` `Markdown` |
 
 </div>

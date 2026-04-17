@@ -108,7 +108,7 @@ Target: remote SDE role by mid-2027. The path is long. I walk it anyway.
       <br/><sub><b>Linux</b></sub>
     </td>
     <td align="center" width="110">
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vscodium/ffffff"><img src="https://cdn.simpleicons.org/vscodium/000000" height="50" title="VS Code"/></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="icons/vscode-white.svg"><img src="icons/vscode-black.svg" height="50" title="VS Code"/></picture>
       <br/><sub><b>VS Code</b></sub>
     </td>
     <td align="center" width="110">

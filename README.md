@@ -54,15 +54,23 @@ Target: remote SDE role by mid-2027.
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,c" height="60"/>
+<img src="https://skillicons.dev/icons?i=python" height="60" title="Python"/>
+<img src="https://skillicons.dev/icons?i=c" height="60" title="C"/>
 
 ### Backend & Tools
 
-<img src="https://skillicons.dev/icons?i=fastapi,git,github,linux,vscode,bash" height="60"/>
+<img src="https://skillicons.dev/icons?i=fastapi" height="60" title="FastAPI"/>
+<img src="https://skillicons.dev/icons?i=git" height="60" title="Git"/>
+<img src="https://skillicons.dev/icons?i=github" height="60" title="GitHub"/>
+<img src="https://skillicons.dev/icons?i=linux" height="60" title="Linux"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="60" title="VS Code"/>
+<img src="https://skillicons.dev/icons?i=bash" height="60" title="Bash"/>
 
 ### Learning Now
 
-<img src="https://skillicons.dev/icons?i=docker,postgres,redis" height="60"/>
+<img src="https://skillicons.dev/icons?i=docker" height="60" title="Docker"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="60" title="PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=redis" height="60" title="Redis"/>
 
 </div>
 

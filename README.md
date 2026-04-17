@@ -74,23 +74,68 @@ Target: remote SDE role by mid-2027. The path is long. I walk it anyway.
 
 ### Weapons Mastered
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="110">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff"><img src="https://cdn.simpleicons.org/python/000000" height="50" title="Python"/></picture>
+      <br/><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="110">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/c/ffffff"><img src="https://cdn.simpleicons.org/c/000000" height="50" title="C"/></picture>
+      <br/><sub><b>C</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Tools of War
 
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="110">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fastapi/ffffff"><img src="https://cdn.simpleicons.org/fastapi/000000" height="50" title="FastAPI"/></picture>
+      <br/><sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="110">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/git/ffffff"><img src="https://cdn.simpleicons.org/git/000000" height="50" title="Git"/></picture>
+      <br/><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="110">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff"><img src="https://cdn.simpleicons.org/github/000000" height="50" title="GitHub"/></picture>
+      <br/><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="110">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linux/ffffff"><img src="https://cdn.simpleicons.org/linux/000000" height="50" title="Linux"/></picture>
+      <br/><sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="110">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vscodium/ffffff"><img src="https://cdn.simpleicons.org/vscodium/000000" height="50" title="VS Code"/></picture>
+      <br/><sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="110">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff"><img src="https://cdn.simpleicons.org/gnubash/000000" height="50" title="Bash"/></picture>
+      <br/><sub><b>Bash</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Being Forged
 
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="110">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/docker/ffffff"><img src="https://cdn.simpleicons.org/docker/000000" height="50" title="Docker"/></picture>
+      <br/><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="110">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/ffffff"><img src="https://cdn.simpleicons.org/postgresql/000000" height="50" title="PostgreSQL"/></picture>
+      <br/><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="110">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/redis/ffffff"><img src="https://cdn.simpleicons.org/redis/000000" height="50" title="Redis"/></picture>
+      <br/><sub><b>Redis</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 

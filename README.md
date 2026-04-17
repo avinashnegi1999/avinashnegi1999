@@ -54,7 +54,7 @@ Target: remote SDE role by mid-2027. The path is long. I walk it anyway.
 
 <br>
 
-<a href="https://avinashnegi1999.github.io/">
+<a href="https://avinashnegi1999.github.io/berserk-portfolio /">
   <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logoColor=white" height="40"/>
 </a>
 

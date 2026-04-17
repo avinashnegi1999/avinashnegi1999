@@ -74,23 +74,23 @@ Target: remote SDE role by mid-2027. The path is long. I walk it anyway.
 
 ### Weapons Mastered
 
-<img src="https://skillicons.dev/icons?i=python" height="60" title="Python"/>
-<img src="https://skillicons.dev/icons?i=c" height="60" title="C"/>
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
 
 ### Tools of War
 
-<img src="https://skillicons.dev/icons?i=fastapi" height="60" title="FastAPI"/>
-<img src="https://skillicons.dev/icons?i=git" height="60" title="Git"/>
-<img src="https://skillicons.dev/icons?i=github" height="60" title="GitHub"/>
-<img src="https://skillicons.dev/icons?i=linux" height="60" title="Linux"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="60" title="VS Code"/>
-<img src="https://skillicons.dev/icons?i=bash" height="60" title="Bash"/>
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Being Forged
 
-<img src="https://skillicons.dev/icons?i=docker" height="60" title="Docker"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="60" title="PostgreSQL"/>
-<img src="https://skillicons.dev/icons?i=redis" height="60" title="Redis"/>
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 

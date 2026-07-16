@@ -1,3 +1,7 @@
+<img src="ascii.svg" alt="avinash — ascii portrait" width="380" align="left" />
+<br clear="all"/>
+
+
 <table width="100%">
   <tr>
     <td align="left">

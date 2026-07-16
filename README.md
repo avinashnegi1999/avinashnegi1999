@@ -1,19 +1,11 @@
-<img src="ascii.svg?v=3" alt="avinash — neofetch" width="760" />
+<img src="ascii.svg?v=4" alt="avinash — ascii portrait" width="300" align="right" />
 
+**Python Backend Developer.** DSA grind, backend systems, building daily.
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <strong>Python Backend Developer.</strong> DSA grind, backend systems, building daily.
-    </td>
-    <td align="right">
-      <a href="https://avinashnegi1999.github.io/berserk-portfolio/">Portfolio</a> ·
-      <a href="https://www.linkedin.com/in/avinashnegi1999/">LinkedIn</a> ·
-      <a href="https://x.com/avinashnegi1999">X</a> ·
-      <a href="https://hashnode.com/@avinashnegi1999">Blog</a>
-    </td>
-  </tr>
-</table>
+[Portfolio](https://avinashnegi1999.github.io/berserk-portfolio/) ·
+[LinkedIn](https://www.linkedin.com/in/avinashnegi1999/) ·
+[X](https://x.com/avinashnegi1999) ·
+[Blog](https://hashnode.com/@avinashnegi1999)
 
 I build **backend systems, automation tools, and DSA-heavy problem solving practice.**
 

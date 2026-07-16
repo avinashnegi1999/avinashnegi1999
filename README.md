@@ -6,7 +6,7 @@
     <td align="right">
       <a href="https://avinashnegi1999.github.io/berserk-portfolio/">Portfolio</a> ·
       <a href="https://www.linkedin.com/in/avinashnegi1999/">LinkedIn</a> ·
-      <a href="https://x.com/AvinashNegiwork">X</a> ·
+      <a href="https://x.com/avinashnegi1999">X</a> ·
       <a href="https://hashnode.com/@avinashnegi1999">Blog</a>
     </td>
   </tr>

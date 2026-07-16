@@ -1,56 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="706" height="780" font-family="monospace" font-size="14">
+<svg xmlns="http://www.w3.org/2000/svg" width="798" height="465" font-family="monospace" font-size="14">
 <rect width="100%" height="100%" fill="#0d1117"/>
-<text fill="#39d353" xml:space="preserve" font-size="14">
-<tspan x="0" y="12.0">.            ....         .:::..::::::::.....:::::::::::::::::::::::::::::-=+++=--::</tspan>
-<tspan x="0" y="27.0">.            ....         .........:::::::::::::::::::::::::::::::::::::::--=++=-:::</tspan>
-<tspan x="0" y="42.0">.            ....         ...      ..:::::::::.....:::::::::::::::::::::::--=+=-::::</tspan>
-<tspan x="0" y="57.0">.            ....          ..       .::...:::.........::::::::::::::::::::--===-::..</tspan>
-<tspan x="0" y="72.0">.            ....         ...        ..    ................::::::::::::::::-===-::..</tspan>
-<tspan x="0" y="87.0">.            ....         ...        ..      ................::::::::::::::-===-::..</tspan>
-<tspan x="0" y="102.0">.            ....         ...        .      ....................:::::::::::-==-:....</tspan>
-<tspan x="0" y="117.0">.            ....         ...        .::-=+*%%#**+==-:.............::::::::---.</tspan>
-<tspan x="0" y="132.0">             ....         ...   ..-=*#%@@@@@@@@@@@@@@@#=............:::::::---.</tspan>
-<tspan x="0" y="147.0">             ....         ..  :*%@@@@@@@@@@@@@@@@@@@@@@@#:............::.:::--.</tspan>
-<tspan x="0" y="162.0">             ...             :%@@@@@@@@@@@@@@@@@@@@@@@@@@@+..............:::--.</tspan>
-<tspan x="0" y="177.0">             ...           .-%@@@@@@%##%%@@@@@@@@@@@@@@@@@@%:.............::::.</tspan>
-<tspan x="0" y="192.0">.            ....         .*@@@#+=-=-----===-===+**#%@@@@@@@#.............::::.</tspan>
-<tspan x="0" y="207.0">.            ....         -@@%=----:::---::--:------=+**#@@@@:............::::.</tspan>
-<tspan x="0" y="222.0">.            ....        .#@#=====-----==-----------===++*@@@%:...........::::.</tspan>
-<tspan x="0" y="237.0">..           ....        -@#===========++==========+++++++#@@@=...........::::.</tspan>
-<tspan x="0" y="252.0">..           ....        *%+===---:::------------====+=+++*@@@*...........::::.</tspan>
-<tspan x="0" y="267.0">..           ....       :%+++==--::::::---:::::::---===++++%@@+...........::::.</tspan>
-<tspan x="0" y="282.0">..           ....       -#==-----------------------====++++%@@-...........::::.</tspan>
-<tspan x="0" y="297.0">.            ....     .:=*++++++++++**+=======+=========+++*@%.............:::.</tspan>
-<tspan x="0" y="312.0">.           .....     -#@%##%@@@@@@@@@%*****#%@@@%%####**#%%%- ............:-:.</tspan>
-<tspan x="0" y="327.0">.           .....      -%%@@@@@@@@@@@@@@@%@@@@@@@@@@@@@%%%%@%--............:--.</tspan>
-<tspan x="0" y="342.0">.           .....      =**#%@@%@@@@@@@@%==#@@@@@@@@@@@@@@@@#*#@:...........:--.</tspan>
-<tspan x="0" y="357.0">.           .....     .==+=+*##%%%%###*-:-=#@%@@@@%@@@@%#%#***%-...........:--.</tspan>
-<tspan x="0" y="372.0">.           .....     .=======++++++*+-:::-=#%***####****++****:...........:--:.</tspan>
-<tspan x="0" y="387.0">.          ....       :+=========+*#*-:...-=+%#*++++===+===+**+............:--:.  ..</tspan>
-<tspan x="0" y="402.0">.          ...  .     -+=========+*=--:::::--=#*==-======+++++- ...........:--.  .:=</tspan>
-<tspan x="0" y="417.0">..  ........::.........++==++==++*+*##**++*#*++#+=--===++++**-: ..........:-=-.   :+</tspan>
-<tspan x="0" y="432.0">-:......::::-::::..... =*++++***+==*%@@@@@@@@%++**++=++++++*#=............:-=-:..:=+</tspan>
-<tspan x="0" y="447.0">:.... ....:::::::....  :%#**####*+++#@@%%@@%#+=-+##********#:.............:-==-:-+##</tspan>
-<tspan x="0" y="462.0">.        ..:::..:::.... +@%#**%@@@%%%@%#*%%%%####%%%%####%%= .............:-==:.:-*#</tspan>
-<tspan x="0" y="477.0">.         ..........   .=@@%**@@@%%%%%%%%%%%%@@@@@@%%%%%%@= ..............:-==...:*#</tspan>
-<tspan x="0" y="492.0">.         .... ....::-+#%%%@@%@@#********+***###@@@%%%@@@= ...............:-==:...-+</tspan>
-<tspan x="0" y="507.0">..        .::-=+###%%%%@@*-@@@@@%###%@@@@@@%####%@@@@@@@*+.  .............:-==-::.:-</tspan>
-<tspan x="0" y="522.0">.. ...::-=*##%@@@@%#%%@@@+:@@@@@@@%##%@@@@@%#%@@@@@@@@@@-#%+::............:-===-::::</tspan>
-<tspan x="0" y="537.0">=+**######%%@@@@@%%%%%@@@*.*@%@@@@@%#%%%%####%@@@@@@@%%@==@@@%#*=:........:-===-----</tspan>
-<tspan x="0" y="552.0">#%%%%###%%%@@@@@%%%%%@@@@#.:%@%@@@@@@@@@@@@@@@@@@@@%##@%--@@@@@@@@%*=:.. .:-========</tspan>
-<tspan x="0" y="567.0">#%%##%%%%@@@@@@%%%%%%@@@@%..=@@@@@@@@@@@@@@@@@@@@@%##@@*::@@@@@@@@@@@%*+=::-========</tspan>
-<tspan x="0" y="582.0">%%%%%%%%%@@@@@@@@%%%%%@@@@-..=@@@@@@@@@@@@@@@@@@%%#%@@*=.:%@@@@@@@@@@@@@%##**++==--=</tspan>
-<tspan x="0" y="597.0">##%%%%%%@@@@@@@@@@@@@@@@@@= .:=#@@@@@@@@@@@@@@%%%%%@@*=:.:@@@@@@@%@@@@@%%%%%%%##*+++</tspan>
-<tspan x="0" y="612.0">#%%%%%%%@@@@@%%%%@@%%@@@@@*-%@%=*@@%%@@@@@@%%%##%@@@#=:. :@@@@@@@@@@@@@@%@%%%%%%%%%#</tspan>
-<tspan x="0" y="627.0">%%%%%%%%%@@@%%%%@@%%%@@@@@%+@@@@#++#########**#%@@@*--##+-@@@@@@@@@@@@@@@%%%%%%%%%%%</tspan>
-<tspan x="0" y="642.0">%%%%%#%%@@@@%%%@@@@@@@@@@@@+@#%#%#*+=+*++++++**#*+--=%@@@*@@%@@@%@@@@@@@@@@%%%%%%%%%</tspan>
-<tspan x="0" y="657.0">%%%%%%%%@@@@%#%@@%%%%%@@@@@*%+=+***+========+++---+%%*@@##@@@@@@@%@@@%%@@@@@@@%%%%%%</tspan>
-<tspan x="0" y="672.0">%%%%%%%@@@@@@%%%%%%%%%%@@@@%*-::-=++==-===+=--:-+##*--#%#@@@@@%@@%%@@@%@@@@@@%%%%%%%</tspan>
-<tspan x="0" y="687.0">%%@@@%%@@@@@@%%%%%%%%@@@@@@#--.::----===-++---+**+-::--+#@@%@@@@%@@@@%%@@@@%@@@%%%%%</tspan>
-<tspan x="0" y="702.0">@@@@@%%%@@@@@%%%%%%%@%@@@@@#--..::::::------===-:::.::::+@@@@@@@%%%@@%@@@@@@@@%%%%%%</tspan>
-<tspan x="0" y="717.0">@@@@@@%%@@@@@%#%@%@%%%%@@%@%--:...::::::--::::......::::+@@@%@@@%%@@@%@@@@@@@@%%%%%%</tspan>
-<tspan x="0" y="732.0">@@@@@%%@@@%%@@%%%%%%%%%@@@@%--:.....:::..:::........::::+@@@@@@@@%@@@%@@@@@@@@%@@@@%</tspan>
-<tspan x="0" y="747.0">@@@@@@%%@@@%@@%%%%%%%%@@@@@%--:.....:....:::........:.::+@@@@@@@@%@@%%@@@@@@@@%@@@@@</tspan>
-<tspan x="0" y="762.0">@@@@@@@%%%%%@@%%%@@@@%%%%%@@-:-...:::.....:-:......::..:+@@@@@@@@@@%%%@@@@@@@@%@@@@@</tspan>
-<tspan x="0" y="777.0">@@@@@@@@@@%%@@@%%%@@%@@%%@@@-:-...::.......--:.....::..:+@@@@@@@@@@@@%@@@@@@@@@@@@@@</tspan>
-</text></svg>
+<text xml:space="preserve" fill="#2ea043">
+<tspan x="8" y="15.0">      ...     ....:::::..::::::::::::::::-=+=-</tspan>
+<tspan x="8" y="30.0">      ...     ..  ..:::::...::::::::::::::=+-:</tspan>
+<tspan x="8" y="45.0">      ...     ..    .............:::::::::==-:</tspan>
+<tspan x="8" y="60.0">      ...     .        .::.........:::::::-=:.</tspan>
+<tspan x="8" y="75.0">      ...     .  .:-+**%%%%##*=.......::::-:  </tspan>
+<tspan x="8" y="90.0">      ..        +%@@@@@@@@@@@@@#:........:-:  </tspan>
+<tspan x="8" y="105.0">      ..      :*@%##*#####%@@@@@@=.......:::  </tspan>
+<tspan x="8" y="120.0">      ...    .#@+---:-------=+*%@@:......:::  </tspan>
+<tspan x="8" y="135.0">      ...    -@+===--==---=====+%@*......:::  </tspan>
+<tspan x="8" y="150.0">      ...    *+=--:::-------==++*@#.......::  </tspan>
+<tspan x="8" y="165.0">      ...  .:*+======-------===++@+.......::  </tspan>
+<tspan x="8" y="180.0">      ...  .*%#%@@@@@###%%%%##*#%%:.......::  </tspan>
+<tspan x="8" y="195.0">      ...   =##@@@@@@%+%@@@@@@@@%##:......-:  </tspan>
+<tspan x="8" y="210.0">      ...  .===+*****::=#######*+**:......--. </tspan>
+<tspan x="8" y="225.0">     ..    .+=====*+-..-=#+=====+*=.......--. </tspan>
+<tspan x="8" y="240.0">.....:::....+++++++*##*##*+===+++*-.......--..</tspan>
+<tspan x="8" y="255.0">.....::::.. -#**##*#@@%@%++##***#=........--:-</tspan>
+<tspan x="8" y="270.0">     .......:%@#@@%####%%%@@%%%%+ ........--.:</tspan>
+<tspan x="8" y="285.0">    .:--=++#%#%@@%##%%####%@@@@*.  .......-=:.</tspan>
+<tspan x="8" y="300.0">-==+*#%@@%%@@++@@@@#%@%%#@@@@@%+%*=-:.....-=-:</tspan>
+<tspan x="8" y="315.0">%%%%%@@@%%%@@#:%@@@@@@@@@@@@%%%-%@@@%#+:.:-===</tspan>
+<tspan x="8" y="330.0">%%%%@@@@@%%@@%.:%@@@@@@@@@%%%@+.#@@@@@@%#**+==</tspan>
+<tspan x="8" y="345.0">%%%%@@@%@@%@@@=**#%@@@@@%%%@@+:.%@@@@@@@%%%%%#</tspan>
+<tspan x="8" y="360.0">%%%%@@%%@%@@@@#@%#*+******#*=*@*%@@@@@@@@%%%%%</tspan>
+<tspan x="8" y="375.0">%%%@@@%%%%%%@@%*-+++=======+**@#@@@@%@@@@@@%%%</tspan>
+<tspan x="8" y="390.0">@@%@@@%%%%%@@@%-.:---===-=+=::=#@@@%%@@@@@@@%%</tspan>
+<tspan x="8" y="405.0">@@%@@@%%%%%%@@%-..::::::::...::*@@@%%@%@@@@@%%</tspan>
+<tspan x="8" y="420.0">@@%@@%@%%%%%@@%-:..:...:.....::#@@@@%@%@@@@%@@</tspan>
+<tspan x="8" y="435.0">@@@%%%@%%@@@%%%-:..:...::...:..#@@@@@@%@@@@@@@</tspan>
+</text>
+<text y="30.0" xml:space="preserve"><tspan x="411.6" fill="#39d353" font-weight="bold">avinash</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#39d353" font-weight="bold">github</tspan></text>
+<text y="45.0" xml:space="preserve"><tspan x="411.6" fill="#8b949e">------------------------------</tspan></text>
+<text y="60.0" xml:space="preserve"><tspan x="411.6" fill="#58a6ff" font-weight="bold">OS</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Ubuntu Linux (daily driver)</tspan></text>
+<text y="75.0" xml:space="preserve"><tspan x="411.6" fill="#58a6ff" font-weight="bold">Host</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Python Backend Developer</tspan></text>
+<text y="90.0" xml:space="preserve"><tspan x="411.6" fill="#58a6ff" font-weight="bold">Uptime</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">building daily, no breaks</tspan></text>
+<text y="105.0" xml:space="preserve"><tspan x="411.6" fill="#58a6ff" font-weight="bold">Editor</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">VS Code</tspan></text>
+<text y="120.0" xml:space="preserve"><tspan x="411.6" fill="#58a6ff" font-weight="bold">Shell</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">zsh + tmux</tspan></text>
+<text y="150.0" xml:space="preserve"><tspan x="411.6" fill="#58a6ff" font-weight="bold">Languages.Prog</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Python, C, JavaScript</tspan></text>
+<text y="165.0" xml:space="preserve"><tspan x="411.6" fill="#58a6ff" font-weight="bold">Languages.Web</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">HTML, CSS, SQL</tspan></text>
+<text y="180.0" xml:space="preserve"><tspan x="411.6" fill="#58a6ff" font-weight="bold">Languages.Real</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Hindi, English</tspan></text>
+<text y="210.0" xml:space="preserve"><tspan x="411.6" fill="#58a6ff" font-weight="bold">Stack</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">FastAPI · PostgreSQL · Redis · Docker</tspan></text>
+<text y="225.0" xml:space="preserve"><tspan x="411.6" fill="#58a6ff" font-weight="bold">Focus</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Backend systems + DSA grind</tspan></text>
+<text y="240.0" xml:space="preserve"><tspan x="411.6" fill="#58a6ff" font-weight="bold">Education</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">BCA SWE · Amity Online · 2027</tspan></text>
+<text y="255.0" xml:space="preserve"><tspan x="411.6" fill="#58a6ff" font-weight="bold">Goal</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">NIMCET 2027 -&gt; NIT MCA</tspan></text>
+<text y="285.0" xml:space="preserve"><tspan x="411.6" fill="#58a6ff" font-weight="bold">Portfolio</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">avinashnegi1999.github.io/berserk-portfolio</tspan></text>
+<text y="300.0" xml:space="preserve"><tspan x="411.6" fill="#58a6ff" font-weight="bold">LinkedIn</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">in/avinashnegi1999</tspan></text>
+<text y="315.0" xml:space="preserve"><tspan x="411.6" fill="#58a6ff" font-weight="bold">X</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">@avinashnegi1999</tspan></text>
+<text y="330.0" xml:space="preserve"><tspan x="411.6" fill="#58a6ff" font-weight="bold">Blog</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">hashnode.com/@avinashnegi1999</tspan></text>
+<text y="345.0" xml:space="preserve"><tspan x="411.6" fill="#58a6ff" font-weight="bold">GitHub</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">@avinashnegi1999</tspan></text>
+<text y="375.0" xml:space="preserve"><tspan x="411.6"><tspan fill="#e06c75">###</tspan><tspan fill="#e5c07b">###</tspan><tspan fill="#98c379">###</tspan><tspan fill="#56b6c2">###</tspan><tspan fill="#61afef">###</tspan><tspan fill="#c678dd">###</tspan><tspan fill="#c9d1d9">###</tspan></tspan></text>
+</svg>

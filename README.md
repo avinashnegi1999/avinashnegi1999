@@ -1,5 +1,4 @@
-<img src="ascii.svg?v=2" alt="avinash — ascii portrait" width="380" align="left" />
-<br clear="all"/>
+<img src="ascii.svg?v=3" alt="avinash — neofetch" width="760" />
 
 
 <table width="100%">

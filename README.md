@@ -1,4 +1,4 @@
-<img src="ascii.svg?v=12" alt="avinash — ascii portrait" width="340" align="right" />
+<img src="ascii.svg?v=13" alt="avinash — ascii portrait" width="340" align="right" />
 
 **Python Backend Developer.** DSA grind, backend systems, building daily.
 

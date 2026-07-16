@@ -1,4 +1,4 @@
-<img src="ascii.svg" alt="avinash — ascii portrait" width="380" align="left" />
+<img src="ascii.svg?v=2" alt="avinash — ascii portrait" width="380" align="left" />
 <br clear="all"/>
 
 
